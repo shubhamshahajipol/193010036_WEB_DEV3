@@ -1,4 +1,4 @@
-alert("Mega Assignmrnt submitted by shubham shahaji pol(193010036).Click 'OK' to see his website");
+alert("Major Assignment_1 submitted by shubham shahaji pol(193010036).Click 'OK' to see his website");
 //Get the button:
 mybutton = document.getElementById("myBtn");
 
